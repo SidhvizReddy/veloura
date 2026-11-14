@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Veloura for YouTube Music",
+  "version": "1.6",
+  "description": "Apple Music-style synced lyrics for YouTube Music on the web: word-by-word highlighting and a background that follows the album art.",
+  "host_permissions": [
+    "https://lrclib.net/*",
+    "https://*.googleusercontent.com/*",
+    "https://*.ytimg.com/*",
+    "https://*.ggpht.com/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [{
+    "matches": ["https://music.youtube.com/*"],
+    "js": ["content.js"],
+    "css": ["style.css"]
+  }]
+}
