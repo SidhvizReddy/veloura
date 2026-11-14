@@ -14,6 +14,10 @@ This is a personal project. I wanted a proper lyrics player like the one in Appl
 - Click any line to jump to it
 - Works with lyrics in any language that has synced lyrics available
 - Respects the system "reduce motion" setting, and has no flashing effects
+- 
+## Screenshots
+
+![](screenshots/SCR-20261114-moch.jpeg)
 
 ## Install
 
@@ -26,7 +30,7 @@ Download a build from the Releases page, or build it yourself (see below). Loadi
 3. Click **Load Temporary Add-on** and select `manifest.json` in the folder.
 4. Open [music.youtube.com](https://music.youtube.com) and play a song.
 
-Temporary add-ons are removed when the browser closes, so repeat the steps next session. For a permanent install, sign the add-on as "unlisted" on [addons.mozilla.org](https://addons.mozilla.org).
+Temporary add-ons are removed when the browser closes, so repeat the steps next session. A Permanent Install is not possible yet, maybe soon.
 
 ### Chrome, Edge, Brave, Opera, Vivaldi, Arc (Chromium-based)
 
@@ -66,7 +70,7 @@ The keys avoid YouTube Music's own shortcuts (L, F, J, K and so on).
 Requires `bash` and `zip`.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/veloura.git
+git clone https://github.com/SidhvizReddy/veloura.git
 cd veloura
 ./build.sh
 ```
