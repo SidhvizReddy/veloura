@@ -14,8 +14,8 @@ This is a personal project. I wanted a proper lyrics player like the one in Appl
 - Click any line to jump to it
 - Works with lyrics in any language that has synced lyrics available
 - Respects the system "reduce motion" setting, and has no flashing effects
-
-###Screenshots
+- 
+## Screenshots
 
 ![](screenshots/SCR-20261114-mnve.jpeg)
 
