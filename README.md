@@ -17,8 +17,6 @@ This is a personal project. I wanted a proper lyrics player like the one in Appl
 - 
 ## Screenshots
 
-![](screenshots/SCR-20261114-mnve.jpeg)
-
 ![](screenshots/SCR-20261114-moch.jpeg)
 
 ## Install
