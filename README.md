@@ -26,7 +26,7 @@ Download a build from the Releases page, or build it yourself (see below). Loadi
 3. Click **Load Temporary Add-on** and select `manifest.json` in the folder.
 4. Open [music.youtube.com](https://music.youtube.com) and play a song.
 
-Temporary add-ons are removed when the browser closes, so repeat the steps next session. For a permanent install, sign the add-on as "unlisted" on [addons.mozilla.org](https://addons.mozilla.org).
+Temporary add-ons are removed when the browser closes, so repeat the steps next session. A Permanent Install is not possible yet, maybe soon.
 
 ### Chrome, Edge, Brave, Opera, Vivaldi, Arc (Chromium-based)
 
