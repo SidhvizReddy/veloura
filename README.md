@@ -15,6 +15,12 @@ This is a personal project. I wanted a proper lyrics player like the one in Appl
 - Works with lyrics in any language that has synced lyrics available
 - Respects the system "reduce motion" setting, and has no flashing effects
 
+###Screenshots
+
+![](screenshots/SCR-20261114-mnve.jpeg)
+
+![](screenshots/SCR-20261114-moch.jpeg)
+
 ## Install
 
 Download a build from the Releases page, or build it yourself (see below). Loading unpacked extensions means the browser may warn you the extension is unverified. That's expected for a project that isn't in an extension store.
